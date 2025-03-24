@@ -1,2 +1,1 @@
-# GroupProjectGameDevelopment
-Group game project made at school
+Pelituotannon ryhmätyö, Unity peli projekti.
